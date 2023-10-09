@@ -4,11 +4,6 @@
 Shopping E-commerce website webPage which is created using react # FrontedProject
 
 
-## Authors
-
-- [@octokatherine](https://www.github.com/octokatherine)
-
-
 ## Demo
 
 Insert gif or link to demo
@@ -17,6 +12,4 @@ https://shopsyproductsahil.netlify.app/
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-https://drive.google.com/file/d/197qO564y6rIoK1pgJdCOPhfm8uhpCUEw/view
+<img width="945" alt="shopersUI" src="https://github.com/Sahil6354/Shoppers_Ui/assets/102516710/4c8888fa-891f-4118-a9ff-5a63937f03df">
